@@ -1,5 +1,5 @@
 # excel-data-analysis-and-visualization
-Silver Store 
+Silver Store 🏪
 
 
 Objective
