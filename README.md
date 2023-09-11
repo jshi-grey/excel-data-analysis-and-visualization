@@ -1,4 +1,6 @@
 # excel-data-analysis-and-visualization
+Silver Store 
+
 
 Objective
 The silver store wants to create an annual sales report for
