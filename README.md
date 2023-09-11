@@ -1,5 +1,10 @@
 # excel-data-analysis-and-visualization
 
+Objective
+The silver store wants to create an annual sales report for
+2022. So that, Silver can understand their customers
+and grow more sales in 2023.
+
 1) Data cleaning: This is the process of preparing our data for analysis by removing or correcting errors, inconsistencies, outliers, duplicates, missing values, and irrelevant information. We can use various Excel functions and features to clean our data, such as TRIM, PROPER, FIND, REPLACE, IFERROR, FILTER, SORT, REMOVE DUPLICATES, and DATA VALIDATION.
 
 ![Screenshot 2023-09-11 091522](https://github.com/jshi-grey/excel-data-analysis-and-visualization/assets/111971113/495ceddc-6a18-4981-a7b7-9dfbafa914d4)
