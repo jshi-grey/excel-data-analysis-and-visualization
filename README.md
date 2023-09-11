@@ -1,4 +1,4 @@
-# excel-data-analysis-and-visualization
+# Silver Store excel-data-analysis-and-visualization
 Silver Store 🏪
 
 
